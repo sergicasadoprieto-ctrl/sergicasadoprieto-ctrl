@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey, I'm Sergi 👋
 
-<!--
-**sergicasadoprieto-ctrl/sergicasadoprieto-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Telecommunications Engineering student at **Universitat Autònoma de Barcelona (UAB)** (2021–2026), specializing in RF systems, signal processing and communication technologies.
 
-Here are some ideas to get you started:
+Currently finishing my bachelor's thesis at **IMB-CNM-CSIC**, where I designed and validated **QL21** — a Git-based documentation framework for experimental nanoscience research, built on Documentation as Code and FAIR principles. Validated with 110+ researchers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Also working as a **Railway Signalling & Telecom Maintenance Intern at TMB** (Transports Metropolitans de Barcelona).
+
+## 🔧 What I work with
+
+**RF & Comms:** `MATLAB` `GNU Radio` `ADS` `LTSpice`  
+**Research & Docs:** `Git` `GitHub` `Markdown` `YAML` `LaTeX` `Obsidian` `Zotero` `Pandoc`  
+**Data & Viz:** `Python` `Power BI`
+
+## 📌 Featured project
+
+**[ql21-toolkit](https://github.com/sergicasadoprieto-ctrl/ql21-toolkit)** — Templates, guides and tools for the QL21 lab notebook framework. Applies FAIR principles and Open Science practices to experimental research documentation.
+
+## 🌍 Languages
+
+`Spanish (native)` `Catalan (native)` `English (Cambridge B2)` `French (DELF A2)`
+
+## 📍 Barcelona, Spain
